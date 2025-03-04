@@ -18,7 +18,7 @@ export default function Skills() {
           <h3 class="db-title">Databases & Cloud</h3>
           <div class="db">
             <div class="img"><img src="https://github.com/zvbrsten/zvbrsten/blob/main/mongodblogo.png?raw=true"/><span class="description">MongoDB - I have experience with MongoDB and designing efficient NoSQL databases.</span></div>
-            <div class="img"><img src="https://github.com/zvbrsten/zvbrsten/blob/main/awslogo.png?raw=true"/><span class="description">AWS Solution Architect - I am familiar with AWS services and cloud architecture best practices.</span></div>
+            <div class="img"><img src="https://github.com/zvbrsten/portfolioreact/blob/main/public/aws.png?raw=true"/><span class="description">AWS Solution Architect - I am familiar with AWS services and cloud architecture best practices.</span></div>
           </div>
           
           <h3 class="pl-title">Programming Languages</h3>
